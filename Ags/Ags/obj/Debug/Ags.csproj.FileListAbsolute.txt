@@ -1,0 +1,133 @@
+C:\Users\Eusebio\Desktop\Ag\Ags\Ags\obj\Debug\Ags.csproj.CoreCompileInputs.cache
+C:\Users\Eusebio\Desktop\Ag\Ags\Ags\bin\Debug\Ags.exe.config
+C:\Users\Eusebio\Desktop\Ag\Ags\Ags\bin\Debug\Ags.exe
+C:\Users\Eusebio\Desktop\Ag\Ags\Ags\bin\Debug\Ags.pdb
+C:\Users\Eusebio\Desktop\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.dll
+C:\Users\Eusebio\Desktop\Ag\Ags\Ags\obj\Debug\Ags.csproj.CopyComplete
+C:\Users\Eusebio\Desktop\Ag\Ags\Ags\obj\Debug\Ags.exe
+C:\Users\Eusebio\Desktop\Ag\Ags\Ags\obj\Debug\Ags.pdb
+C:\Users\Eusebio\Desktop\Ag\Ags\Ags\bin\Debug\EntityFramework.dll
+C:\Users\Eusebio\Desktop\Ag\Ags\Ags\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eusebio\Desktop\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Eusebio\Desktop\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Eusebio\Desktop\Ag\Ags\Ags\bin\Debug\EntityFramework.xml
+C:\Users\Eusebio\Desktop\Ag\Ags\Ags\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eusebio\Desktop\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.xml
+C:\Users\Eusebio\Desktop\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Eusebio\Desktop\Ag\Ags\Ags\obj\Debug\Ags.csprojAssemblyReference.cache
+C:\Users\Eusebio\Documents\Investigacion IA\Ag\Ags\Ags\obj\Debug\Ags.csprojAssemblyReference.cache
+C:\Users\Eusebio\Documents\Investigacion IA\Ag\Ags\Ags\obj\Debug\Ags.csproj.CoreCompileInputs.cache
+C:\Users\Eusebio\Documents\Investigacion IA\Ag\Ags\Ags\obj\Debug\Ags.exe
+C:\Users\Eusebio\Documents\Investigacion IA\Ag\Ags\Ags\obj\Debug\Ags.pdb
+C:\Users\Eusebio\Documents\IA\Ag\Ags\Ags\obj\Debug\Ags.csproj.CoreCompileInputs.cache
+C:\Users\Eusebio\Documents\IA\Ag\Ags\Ags\bin\Debug\Ags.exe.config
+C:\Users\Eusebio\Documents\IA\Ag\Ags\Ags\bin\Debug\Ags.exe
+C:\Users\Eusebio\Documents\IA\Ag\Ags\Ags\bin\Debug\Ags.pdb
+C:\Users\Eusebio\Documents\IA\Ag\Ags\Ags\bin\Debug\EntityFramework.dll
+C:\Users\Eusebio\Documents\IA\Ag\Ags\Ags\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eusebio\Documents\IA\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.dll
+C:\Users\Eusebio\Documents\IA\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Eusebio\Documents\IA\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Eusebio\Documents\IA\Ag\Ags\Ags\bin\Debug\EntityFramework.xml
+C:\Users\Eusebio\Documents\IA\Ag\Ags\Ags\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eusebio\Documents\IA\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.xml
+C:\Users\Eusebio\Documents\IA\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Eusebio\Documents\IA\Ag\Ags\Ags\obj\Debug\Ags.csproj.CopyComplete
+C:\Users\Eusebio\Documents\IA\Ag\Ags\Ags\obj\Debug\Ags.exe
+C:\Users\Eusebio\Documents\IA\Ag\Ags\Ags\obj\Debug\Ags.pdb
+C:\Users\Eusebio\Documents\IA\Ag\Ags\Ags\obj\Debug\Ags.csprojAssemblyReference.cache
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\AG\Ag\Ags\Ags\bin\Debug\Ags.exe.config
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\AG\Ag\Ags\Ags\bin\Debug\Ags.exe
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\AG\Ag\Ags\Ags\bin\Debug\Ags.pdb
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\AG\Ag\Ags\Ags\bin\Debug\EntityFramework.dll
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\AG\Ag\Ags\Ags\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\AG\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.dll
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\AG\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\AG\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\AG\Ag\Ags\Ags\bin\Debug\EntityFramework.xml
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\AG\Ag\Ags\Ags\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\AG\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.xml
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\AG\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\AG\Ag\Ags\Ags\obj\Debug\Ags.csprojAssemblyReference.cache
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\AG\Ag\Ags\Ags\obj\Debug\Ags.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\AG\Ag\Ags\Ags\obj\Debug\Ags.csproj.CopyComplete
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\AG\Ag\Ags\Ags\obj\Debug\Ags.exe
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\AG\Ag\Ags\Ags\obj\Debug\Ags.pdb
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\AG\Ag\Ags\Ags\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\AG\Ag\Ags\Ags\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sofil\Desktop\Ag\Ags\Ags\bin\Debug\Ags.exe.config
+C:\Users\sofil\Desktop\Ag\Ags\Ags\bin\Debug\Ags.exe
+C:\Users\sofil\Desktop\Ag\Ags\Ags\bin\Debug\Ags.pdb
+C:\Users\sofil\Desktop\Ag\Ags\Ags\bin\Debug\EntityFramework.dll
+C:\Users\sofil\Desktop\Ag\Ags\Ags\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sofil\Desktop\Ag\Ags\Ags\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sofil\Desktop\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.dll
+C:\Users\sofil\Desktop\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\sofil\Desktop\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\sofil\Desktop\Ag\Ags\Ags\bin\Debug\EntityFramework.xml
+C:\Users\sofil\Desktop\Ag\Ags\Ags\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sofil\Desktop\Ag\Ags\Ags\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sofil\Desktop\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.xml
+C:\Users\sofil\Desktop\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\sofil\Desktop\Ag\Ags\Ags\obj\Debug\Ags.csprojAssemblyReference.cache
+C:\Users\sofil\Desktop\Ag\Ags\Ags\obj\Debug\Ags.csproj.CoreCompileInputs.cache
+C:\Users\sofil\Desktop\Ag\Ags\Ags\obj\Debug\Ags.csproj.CopyComplete
+C:\Users\sofil\Desktop\Ag\Ags\Ags\obj\Debug\Ags.exe
+C:\Users\sofil\Desktop\Ag\Ags\Ags\obj\Debug\Ags.pdb
+C:\Users\sofil\Desktop\Ag\Ags\Ags\obj\Debug\Ags.FormMain.resources
+C:\Users\sofil\Desktop\Ag\Ags\Ags\obj\Debug\Ags.csproj.GenerateResource.cache
+C:\Users\sofil\Desktop\Ag\Ags\Ags\obj\Debug\Ags.FormProgreso.resources
+C:\Users\sofil\Desktop\Ag\Ags\Ags\obj\Debug\Ags.FormExportar.resources
+C:\Users\sofil\Desktop\Ag\Ags\Ags\obj\Debug\Ags.FormEvaluar.resources
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\bin\Debug\Ags.exe.config
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\bin\Debug\Ags.exe
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\bin\Debug\Ags.pdb
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\bin\Debug\EntityFramework.dll
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.dll
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\bin\Debug\EntityFramework.xml
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.xml
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\obj\Debug\Ags.csprojAssemblyReference.cache
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\obj\Debug\Ags.FormEvaluar.resources
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\obj\Debug\Ags.FormExportar.resources
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\obj\Debug\Ags.FormMain.resources
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\obj\Debug\Ags.FormProgreso.resources
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\obj\Debug\Ags.csproj.GenerateResource.cache
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\obj\Debug\Ags.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\obj\Debug\Ags.csproj.CopyComplete
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\obj\Debug\Ags.exe
+C:\Users\Roberto Carlos\Downloads\JAJAJAJA\Este es el bueno\Ag\Ags\Ags\obj\Debug\Ags.pdb
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\bin\Debug\Ags.exe.config
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\bin\Debug\Ags.exe
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\bin\Debug\Ags.pdb
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\bin\Debug\EntityFramework.dll
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.dll
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\bin\Debug\EntityFramework.xml
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.xml
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\obj\Debug\Ags.csprojAssemblyReference.cache
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\obj\Debug\Ags.FormEvaluar.resources
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\obj\Debug\Ags.FormExportar.resources
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\obj\Debug\Ags.FormMain.resources
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\obj\Debug\Ags.FormProgreso.resources
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\obj\Debug\Ags.csproj.GenerateResource.cache
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\obj\Debug\Ags.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\obj\Debug\Ags.csproj.CopyComplete
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\obj\Debug\Ags.exe
+C:\Users\Roberto Carlos\Desktop\Estadia TSU\PROYECTO FINALIZADO\Ag\Ags\Ags\obj\Debug\Ags.pdb
+C:\Users\sofil\Desktop\Ag\Ags\Ags\bin\Debug\Ags.exe.manifest
+C:\Users\sofil\Desktop\Ag\Ags\Ags\bin\Debug\Ags.application
+C:\Users\sofil\Desktop\Ag\Ags\Ags\obj\Debug\Ags.exe.manifest
+C:\Users\sofil\Desktop\Ag\Ags\Ags\obj\Debug\Ags.application
